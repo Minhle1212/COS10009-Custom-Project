@@ -1,0 +1,1 @@
+require relatives "/.snake.rb"
